@@ -45,7 +45,7 @@ A fan website dedicated to the Marvel Cinematic Universe (MCU). This project sho
 
 ## Credits
 
-- **Aditya Kumar**: Creator of the MARVELITES website. Contact: [Your Email] | [Your LinkedIn]
+- **Aditya Kumar**: Creator of the MARVELITES website. Contact: adityakumar12103513 | <a href="https://www.linkedin.com/in/0106aditya/">Linkdin</a>
 
 ## License
 
