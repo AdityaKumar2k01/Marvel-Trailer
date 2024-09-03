@@ -7,7 +7,7 @@ A fan website dedicated to the Marvel Cinematic Universe (MCU). This project sho
 - **Marvel Trailers**: A collection of official Marvel movie trailers with clickable thumbnails.
 - **Search Functionality**: A simple search box for users to find their favorite Marvel movies.
 - **Responsive Navigation**: A stylish and interactive navigation menu for easy access to different sections of the site.
-- **About Us Section**: Information about the creator of the website, Aditya Kumar.
+- **About Us Section**: Information about the creator of the website, Aditya Kumar..
 
 ## Technologies Used
 
